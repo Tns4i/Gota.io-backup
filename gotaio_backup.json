@@ -1,1 +1,27 @@
-
+{
+  "meta": {
+    "tool": "Gota.io Gallery Backup",
+    "version": 1,
+    "ts": "2025-08-12T15:59:03.230Z",
+    "origin": "https://gota.io"
+  },
+  "gm": {
+    "gotaio_last_profile_idx": 0,
+    "gotaio_profiles_v2": "[{\"name\":\"Default\",\"skins\":[{\"name\":\"adv342\",\"uuid\":\"fd369e60-54bd-4578-8722-cf5e30cb8233\"},{\"name\":\"mgkatrin\",\"uuid\":\"556b8cc2-18b2-45d9-9a40-0083badb974f\"},{\"name\":\"cheboludo\",\"uuid\":\"dcdc8fb6-8eff-463f-8909-7b10c3ac52b5\"}]}]"
+  },
+  "localStorage": {
+    "name": "",
+    "theme": "{\"version\":2,\"uiForegroundColor\":\"rgb(255, 255, 255)\",\"uiBackgroundColor\":\"rgba(22, 22, 22, 0.8)\",\"uiBorderColor\":\"rgba(255, 255, 255, .2)\",\"uiMenuBackgroundColor\":\"#2A2A2A\",\"uiMenuTitleBackgroundColor\":\"#404040\",\"uiMenuSubBackgroundColor\":\"#363636\",\"uiMenuSubBackground2Color\":\"#404040\",\"uiButtonColor\":\"#444444\",\"uiGameBackgroundColor\":\"#121212\",\"uiGameBorderColor\":\"#ff0000\",\"uiLeaderboardHighlightSelf\":\"#ffaaaa\",\"uiLeaderboardHighlightParty\":\"#ffff00\",\"uiPartyLeaderColor\":\"#00ffff\",\"uiGameColorSuccess\":\"#00ff00\",\"uiGameColorWarning\":\"#ffff00\",\"uiGameColorError\":\"#ff0000\",\"_FoodColors\":[],\"aCustomBackground\":\"\",\"aCustomSpike\":\"\",\"aCustomMother\":\"\",\"rBorderSize\":32,\"rBackgroundOpacity\":1}",
+    "enhancer-colors": "{\"color1\":{\"r\":255,\"g\":50,\"b\":50},\"color2\":{\"r\":50,\"g\":50,\"b\":255}}",
+    "options": "{\"cDisableAA\":false,\"cAutoRespawn\":false,\"cHideId\":false,\"cHideServer\":false,\"cHidePartyPanel\":false,\"cHideLeaderboard\":false,\"cHideExtraPanel\":false,\"sShowNames\":\"ALL\",\"sShowSkins\":\"ALL\",\"sRenderType\":\"AUTO\",\"sTextOutlines\":\"NONE\",\"sQuality\":\"ULTRA\",\"sMassType\":\"DEFAULT\",\"cTransCells\":false,\"cShowMass\":false,\"cShowBorder\":false,\"cSilentLogin\":false,\"cShowChatIds\":false,\"cColoredChatIds\":false,\"cHideChat\":false,\"cHideMinimap\":false,\"sScorePanel\":\"2\",\"cShowCoordinates\":false,\"cDarkerBots\":false,\"cHideFood\":false,\"cColoredPing\":false,\"cColoredCellCount\":false,\"cThemeEnabled\":false,\"cDisableAutoZoom\":false,\"cAutoDecline\":false,\"cDisableEventSkins\":false,\"cResizableChat\":false,\"cDisableAutoNameHiding\":false,\"cDisableAutoFoodHiding\":false,\"cDisablePersistEjectMass\":false,\"cShowTracer\":false,\"iChatWidth\":\"400px\",\"iChatHeight\":\"250px\",\"rUiScale\":1,\"rReconnectPeriod\":5,\"rAnimationDelay\":90,\"rViewDistance\":100,\"rTracerOpacity\":50,\"rTracerColor\":\"#ffffff\",\"_ChatTabs\":[{\"name\":\"All\",\"flags\":255,\"maxMessages\":100},{\"name\":\"Party\",\"flags\":2,\"maxMessages\":100}],\"_tracerColorCached\":16777215}",
+    "_grecaptcha": "09ANMylND2Vn7x87MSqOmDbTfMcHhbsfXru1IdKc520BMGIvMmfr3BeYcrIPzn_EU1DRCSpy-Vf2aGOpQJTk3s1hJFaL-PNTHLkiuITZ2_KCnUiFZ0ecn7LERXFDhuFczK",
+    "firebase:host:gota-io.firebaseio.com": "\"s-usc1b-nss-2117.firebaseio.com\"",
+    "subpanel": "{\"rules\":false,\"nameColor\":{\"r\":0,\"g\":255,\"b\":255},\"chatColor\":0,\"lowerName\":false,\"skinName\":\"\",\"effect\":0,\"nameFont\":0}",
+    "keybinds": "{\"kContextMenu\":3,\"kEjectMass\":87,\"kSplit\":32,\"kToggleSpec\":81,\"kDoubleSplit\":-1,\"kTripleSplit\":-1,\"kQuadSplit\":-1,\"kHexaSplit\":-1,\"kFreezeMouse\":-1,\"kLineSplit\":-1}",
+    "enhancer-skins": "{\"skin1\":\"Default1\",\"skin2\":\"Default2\"}",
+    "version": "3.7.2",
+    "gotaio_gallery_position": "{\"left\":99,\"top\":241,\"width\":600,\"height\":400}",
+    "enhancer-hotkeys": "{\"disableMassEject\":\"\",\"showMass\":\"\",\"showNames\":\"\",\"showSkins\":\"\",\"autoRespawn\":\"\",\"partyCode\":\"\",\"hideChat\":\"\",\"spectateMode\":\"\",\"leaveParty\":\"\",\"join\":\"\",\"pentaSplit\":\"\",\"octoSplit\":\"\",\"tripleSplit\":\"\",\"split16x256\":\"\",\"split16x16Long\":\"\",\"split8x\":\"\",\"split16x\":\"\",\"split32x\":\"\",\"split256x\":\"\"}",
+    "gotaio_theme": "default"
+  }
+}
